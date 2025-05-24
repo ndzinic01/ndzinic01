@@ -19,7 +19,11 @@
 </p>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/nerma-d%C5%BEini%C4%87/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/nerma-d%C5%BEini%C4%87/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a href="mailto:nerma.dzinic@edu.fit.ba" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndzinic01&" alt="ndzinic01" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndzinic01&show_icons=true&locale=en&layout=compact" alt="ndzinic01" /></p>
 
