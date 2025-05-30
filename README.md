@@ -24,6 +24,6 @@
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndzinic01&" alt="ndzinic01" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndzinic01&show_icons=true&locale=en&layout=compact" alt="ndzinic01" /></p>
 
