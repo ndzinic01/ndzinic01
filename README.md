@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nerma Džinić</h1>
+ <h1 align="center">Hi 👋, I'm Nerma Džinić</h1>
 
 <p align="center">
   Software Engineering student at the Faculty of Information Technologies in Mostar
@@ -45,6 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="38" height="38" alt="Visual Studio"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38" height="38" alt="Power BI"/>
 </p>
 
 ---
